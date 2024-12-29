@@ -13,5 +13,5 @@
     command : sudo systemctl start docker
 
   - name: Deploy Docker Container
-    command: docker run -itd -p 8081:8081 nishant796/banking_finance:14
+    command: docker run -itd -p 8081:8081 nishant796/banking_finance:2
   
